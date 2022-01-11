@@ -1,4 +1,4 @@
-#Riya, Joyce, and Omar's snake game
+#Riya,snake game
 
 from tkinter import *
 import tkinter as tk  #importing a module that will allow us to use buttons
